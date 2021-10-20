@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Dental Fillings",
+        "img": "https://i.ibb.co/Km9KdZg/dental-filling.jpg",
+        "fee": "1000",
+        "details": "To treat a cavity your dentist will remove the decayed portion of the tooth and then fill the area on the tooth where the decayed material once lived. Fillings are also used to repair cracked or broken teeth and teeth that have been worn down from misuse (such as from nail-biting or tooth grinding)Orthodontics[a][b] is a dentistry specialty that addresses the diagnosis, prevention, and correction of mal-positioned teeth and jaws, and misaligned bite patterns.[2] It may also address the modification of facial growth, known as dentofacial orthopedics"
+    },
+    {
+        "id": 2,
+        "name": "Dental Crown",
+        "fee": "1000",
+        "img": "https://i.ibb.co/QMGSnLc/dental-crowns-2010.jpg",
+        "details": "Over time, your teeth can get damaged. This can happen for a variety of reasons, like tooth decay, injuries or just use over time. Your teeth can lose their shape or size. Dental crowns are tooth-shaped capsOrthodontics[a][b] is a dentistry specialty that addresses the diagnosis, prevention, and correction of mal-positioned teeth and jaws, and misaligned bite patterns.[2] It may also address the modification of facial growth, known as dentofacial orthopedics"
+    },
+    {
+        "id": 3,
+        "name": "Dental Implement",
+        "img": "https://i.ibb.co/KwzLLZx/Dental-Implant.jpg",
+        "fee": "1000",
+        "details": "Despite improvements in dental care, millions of Americans suffer tooth loss -- mostly due to tooth decay, periodontal disease, or injury. For many years, the only treatment options available for people with missing teeth were bridges and dentures. But, today, dental implants are available.Orthodontics[a][b] is a dentistry specialty that addresses the diagnosis, prevention, and correction of mal-positioned teeth and jaws, and misaligned bite patterns.[2] It may also address the modification of facial growth, known as dentofacial orthopedics"
+    },
+    {
+        "id": 4,
+        "name": "Scaling",
+        "img": "https://i.ibb.co/fNwHKVD/Scalling.jpg",
+        "fee": "1000",
+        "details": "Scaling is when your dentist removes all the plaque and tartar (hardened plaque) above and below the gumline, making sure to clean all the way down to the bottom of the pocket. Your dentist will then begin root planing, smoothing out your teeth roots to help your gums reattach to your teeth.Orthodontics[a][b] is a dentistry specialty that addresses the diagnosis, prevention, and correction of mal-positioned teeth and jaws, and misaligned bite patterns.[2] It may also address the modification of facial growth, known as dentofacial orthopedics"
+    },
+    {
+        "id": 5,
+        "name": "Orthodontics",
+        "img": "https://i.ibb.co/C27Pmk7/Orthodontics.jpg",
+        "fee": "1000",
+        "details": "Orthodontics[a][b] is a dentistry specialty that addresses the diagnosis, prevention, and correction of mal-positioned teeth and jaws, and misaligned bite patterns.[2] It may also address the modification of facial growth, known as dentofacial orthopedicsOrthodontics[a][b] is a dentistry specialty that addresses the diagnosis, prevention, and correction of mal-positioned teeth and jaws, and misaligned bite patterns.[2] It may also address the modification of facial growth, known as dentofacial orthopedics."
+    },
+    {
+        "id": 6,
+        "name": "Surgery",
+        "img": "https://i.ibb.co/2sj4zqf/surgery.jpg",
+        "fee": "1000",
+        "details": "Dental surgery is a part of dentistry, which is a branch of medicine dealing with teeth, gums, and the mouth. Dentists are the practitioners of dentistry and they deal with the treatment, prevention, diagnosis, and study of conditions, disorders, and diseases of the oral cavity.Orthodontics[a][b] is a dentistry specialty that addresses the diagnosis, prevention, and correction of mal-positioned teeth and jaws, and misaligned bite patterns.[2] It may also address the modification of facial growth, known as dentofacial orthopedics"
+    },
+    {
+        "id": 7,
+        "name": "Root canal",
+        "img": "https://i.ibb.co/QX9WYtX/root-canal.png",
+        "fee": "1000",
+        "details": "Root canal treatment (endodontics) is a dental procedure used to treat infection at the centre of a tooth. Root canal treatment is not painful and can save a tooth that might otherwise have to be removed completely.Orthodontics[a][b] is a dentistry specialty that addresses the diagnosis, prevention, and correction of mal-positioned teeth and jaws, and misaligned bite patterns.[2] It may also address the modification of facial growth, known as dentofacial orthopedics"
+    },
+    {
+        "id": 8,
+        "name": "Chipped tooth repair",
+        "img": "https://i.ibb.co/dgvhPY7/chipped-teeth-500x371.jpg",
+        "fee": "1000",
+        "details": "A small, superficial chip is one that you can barely see. In fact, you may not be visible at all, but you can definitely feel the roughness of the missing area with your tongue.Orthodontics[a][b] is a dentistry specialty that addresses the diagnosis, prevention, and correction of mal-positioned teeth and jaws, and misaligned bite patterns.[2] It may also address the modification of facial growth, known as dentofacial orthopedics"
+    }
+]
